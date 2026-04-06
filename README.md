@@ -58,7 +58,7 @@
   <a href="kaaviyanesh88@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=leetcode&logo=itch&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="itch logo"  />
+  <img src="https://leetcode.com/u/kaaviyanesh/" height="25" alt="itch logo"  />
   <a href="https://www.hackerrank.com/profile/kaaviyanesh88" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
   </a>
